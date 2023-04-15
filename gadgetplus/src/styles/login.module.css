@@ -1,0 +1,39 @@
+.container {
+    position: relative;
+    top: 5%;
+    left: 3%;
+    margin-top: 3%;
+    padding-top: 2rem;
+    border-radius: 10px;
+    width: 32%;
+    height: 17rem;
+    background-image: url('../../public//images/back4.jpg');
+    opacity: 0.8;
+}
+.label{
+    position: relative;
+    margin-left: 1.2rem;
+    margin-top: 5rem;
+}
+.input{
+    background-color: rgb(13, 207, 225);
+    width: 25rem;
+    margin-left: 1rem;
+    margin-top: 0.5rem;
+    margin-bottom: 1.5rem;
+    border-radius: 5px;
+    height: 2.5rem;
+    padding-left: 0.5rem;
+}
+.button{
+    position: relative;
+    margin-left: 1.2rem;
+    background-color: rgb(13, 207, 225);
+    padding-left: 1rem;
+    padding-right: 1rem;
+    border-radius: 5px;
+}
+.extras{
+    margin-left: 0.5rem;
+
+}
